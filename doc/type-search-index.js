@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"TextCompress.Node"},{"p":"<Unnamed>","l":"TextCompress"}];updateSearchResults();
