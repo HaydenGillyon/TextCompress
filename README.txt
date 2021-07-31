@@ -1,5 +1,5 @@
 TextCompress
-by Hayden J R Gillyon - 2021
+by Hayden Gillyon - 2021
 
 Program Information
 --------------------------------
