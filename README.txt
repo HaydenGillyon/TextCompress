@@ -1,5 +1,5 @@
 TextCompress
-by Zagox11 (Student 690031300) - 2021
+by Hayden J R Gillyon - 2021
 
 Program Information
 --------------------------------
@@ -15,7 +15,7 @@ DEPENDENCIES: Java 15.0.2
 For more information on this program, check the documentation located in the '/doc' folder.
 
 The TextCompress program is maintained in the following GitHub repository:
-https://github.com/Zagox11/TextCompress
+https://github.com/HaydenGillyon/TextCompress
 
 
 Program Functions
